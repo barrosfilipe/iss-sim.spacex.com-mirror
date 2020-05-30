@@ -1,0 +1,12 @@
+{
+  "name": "iss-sim-spacex-com-mirror",
+  "version": "1.0.0",
+  "main": "src/",
+  "scripts": {
+    "start": "live-server ./src/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
